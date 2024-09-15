@@ -271,10 +271,10 @@ body {
     min-width: 120px;
 }
 .artist-sec .card .item img {
-    width: 100%;
+    width: 140px;
     border-radius: 50%;
     min-width: 120px;
-    height: 100px;
+    height: 140px;
 }
 .artist-sec .card .item h5 {
     padding: 10px;
